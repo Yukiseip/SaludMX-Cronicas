@@ -1,0 +1,29 @@
+# Entornos virtuales
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos crudos pesados (INEGI)
+data/raw/
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de entorno
+.env
+.venv
+env/
+ENV/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpeta de caché de Streamlit
+.streamlit/
