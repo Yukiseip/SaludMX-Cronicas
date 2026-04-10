@@ -2,7 +2,7 @@
 
 **Mortalidad por Enfermedades Crónicas en México (INEGI)**
 
-## 📊 Descripción del Proyecto
+## Descripción del Proyecto
 
 **SaludMX Crónicas** es un dashboard interactivo que permite visualizar y analizar la mortalidad por las tres principales enfermedades crónicas en México entre 2020 y 2024:
 
@@ -12,14 +12,14 @@
 
 Utiliza datos oficiales del INEGI y permite comparar tasas por entidad federativa contra el promedio nacional ponderado, con visualizaciones interactivas y un mapa de México.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - Python, Pandas, DuckDB
 - Streamlit (Dashboard)
 - Plotly (Visualizaciones y mapa)
 - Geopandas (Lectura de GeoJSON)
 
-## 📥 Archivos Necesarios y Dónde Descargarlos
+## Archivos Necesarios y Dónde Descargarlos
 
 Para replicar este proyecto necesitarás los siguientes archivos:
 
@@ -42,7 +42,7 @@ Para replicar este proyecto necesitarás los siguientes archivos:
 
 **Nota**: Este GeoJSON es el que mejor funciona con el dashboard actual. Si usas otro, asegúrate de que los nombres de los estados coincidan.
 
-## 🚀 Cómo correr el proyecto localmente
+## Cómo correr el proyecto localmente
 
 ### 1. Clonar o descargar el repositorio
 
