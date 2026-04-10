@@ -1,5 +1,7 @@
 # SaludMX Crónicas ⚕️
 
+![Preview](./Captura de pantalla 2026-04-10 120542.png)
+
 **Mortalidad por Enfermedades Crónicas en México (INEGI)**
 
 ## Descripción del Proyecto
