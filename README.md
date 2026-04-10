@@ -1,12 +1,28 @@
 # SaludMX Crónicas ⚕️
 
-## Vista previa
+## Vista previa:
 
 ![Preview 1](./preview.png)
 
 ![Preview 2](./preview2.png)
 
-**Mortalidad por Enfermedades Crónicas en México (INEGI)**
+## Explicación General del Proyecto:
+En México, las enfermedades crónicas (principalmente Enfermedades del Corazón, Diabetes Mellitus y Tumores Malignos) son las principales causas de muerte. Según datos del INEGI, estas tres enfermedades concentran una gran parte de las defunciones año tras año.
+El problema es que:
+
+La información oficial existe, pero está dispersa en múltiples archivos y boletines.
+Es difícil visualizar las desigualdades regionales (por ejemplo, qué estados tienen tasas mucho más altas que el promedio nacional).
+No hay una herramienta sencilla y accesible que permita a analistas, estudiantes, ONGs o tomadores de decisiones explorar estos datos de forma interactiva.
+
+##Impacto Real:
+SaludMX Crónicas convierte datos crudos del INEGI en una herramienta útil que permite:
+
+Identificar estados con mayor riesgo sanitario.
+Comparar el comportamiento de cada enfermedad contra el promedio nacional ponderado.
+Visualizar tendencias temporales (2020-2024).
+Apoyar la toma de decisiones en salud pública, campañas de prevención y asignación de recursos.
+
+Es un ejemplo real de "Data for Good": usar datos públicos para generar valor social.
 
 ## Descripción del Proyecto
 
