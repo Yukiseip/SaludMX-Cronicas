@@ -14,7 +14,7 @@ La información oficial existe, pero está dispersa en múltiples archivos y bol
 Es difícil visualizar las desigualdades regionales (por ejemplo, qué estados tienen tasas mucho más altas que el promedio nacional).
 No hay una herramienta sencilla y accesible que permita a analistas, estudiantes, ONGs o tomadores de decisiones explorar estos datos de forma interactiva.
 
-##Impacto Real:
+## Impacto Real:
 SaludMX Crónicas convierte datos crudos del INEGI en una herramienta útil que permite:
 
 Identificar estados con mayor riesgo sanitario.
